@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: sunrutrac
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: sudes
+Implementation-Vendor-Id: com.onewifi.summary
+Build-Jdk: 1.8.0_131
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/sunrutrack
+Created-By: Maven Integration for Eclipse
+
